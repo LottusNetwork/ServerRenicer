@@ -1,0 +1,5 @@
+name: ServerRenicer
+version: '1.0-SNAPSHOT'
+main: org.lottus.ServerRenicer
+author: Biquaternions
+api-version: '1.21'
